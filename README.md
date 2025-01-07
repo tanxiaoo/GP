@@ -58,13 +58,14 @@ This project leverages Python to analyze multispectral imagery (Sentinel-2) and 
 ---
 
 ### Project Directory Structure
-GP_Project/
-├── building_area.ipynb           # Main analysis file for users with prepared data
-├── data_processing.py            # Core data preprocessing script
-├── building_area_quickview.ipynb # Simplified operation file, no data preparation required
-│
-├── test_data/                    # Test data (multispectral imagery, DEM, ROI, etc.)
-├── output/                       # Folder for output results
+
+GP_Project/  
+├── `building_area.ipynb`           # Main analysis file for users with prepared data  
+├── `data_processing.py`            # Core data preprocessing script  
+├── `building_area_quickview.ipynb` # Simplified operation file, no data preparation required  
+│  
+├── `test_data/`                    # Test data (multispectral imagery, DEM, ROI, etc.)  
+├── `output/`                       # Folder for output results  
 
 ---
 
